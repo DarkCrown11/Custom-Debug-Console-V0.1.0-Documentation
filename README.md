@@ -28,4 +28,4 @@ Supported Platforms:
 
 ## Setup
 After purchasing the plugin from the [FAB](https://www.fab.com/listings/c3f0a7e2-ffdd-484c-86e6-4a38934d7d06) and installing it on the engine, you can enable
-the plugin in `Edit→Plugins→Installed→Custom Debug Console`
+the plugin in `Edit→Plugins→Installed→Custom Debug Console` and restart the engine.
