@@ -37,6 +37,6 @@ Now go to world settings and select your GameMode and PlayerController.
 
 https://github.com/user-attachments/assets/85b24032-6425-47da-83b1-e020ec9b726d
 
-Final step now you need to go `Window→Custom Debug Console→Save` click save congratulations, you have completed the setup.
+Final step now you need to go `Window→Custom Debug Console→Save` click the Save button. Congratulations, you have completed the setup.
 
 https://github.com/user-attachments/assets/fe681903-cf3d-45fe-aa03-715605ca27c7
