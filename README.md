@@ -5,7 +5,7 @@ Unreal Engine Custom Debug Console Plugin V1.0.0 Documentation
 
 ## Contents
 - [About](#about)
-- [:warning:Attention](#:warning:attention)
+- [Attention](#:warning:attention)
 - [Features](#features)
 - [Setup](#Setup)
 
