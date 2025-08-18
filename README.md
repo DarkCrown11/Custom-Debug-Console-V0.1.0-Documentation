@@ -28,7 +28,8 @@ Supported Platforms:
 
 ## Setup
 After purchasing the plugin from the [FAB](https://www.fab.com/listings/c3f0a7e2-ffdd-484c-86e6-4a38934d7d06) and installing it on the engine, you can enable
-the plugin in `Edit→Plugins→Installed→Custom Debug Console` and restart the engine.<br/>
+the plugin in `Edit→Plugins→Installed→Custom Debug Console` and restart the engine.
+
 https://github.com/user-attachments/assets/609d61f8-c6e6-494e-9ec3-f115f45b7847
 
 After that you need to create 2 blueprints 1.GameMode 2.PlayerController and inside the your PlayerController blueprint you need to add Custom Debug Console PC Component. 
