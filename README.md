@@ -34,3 +34,7 @@ https://github.com/user-attachments/assets/4e674b87-770e-48a1-b0aa-f86cae844555
 
 After that you need to create 2 blueprints 1.GameMode 2.PlayerController and inside the your PlayerController blueprint you need to add Custom Debug Console PC Component. 
 Now go to world settings and select your GameMode and PlayerController.
+
+https://github.com/user-attachments/assets/85b24032-6425-47da-83b1-e020ec9b726d
+
+Final step
