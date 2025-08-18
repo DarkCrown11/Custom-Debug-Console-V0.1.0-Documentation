@@ -14,9 +14,14 @@ A console that you can customize and add commands from the blueprint
 
 ## :warning:Warning <a name="warning-anchor-point"></a>
 Please remember, this plugin is <ins>Experimental</ins>! You may encounter bugs, please report them to this email address "akcrowngames@gmail.com".
+- ### Supported Platforms
+- Windows
 
 ## Features
-Features Console
+- You can customize your console look from interface.
+- You can create a function in a custom debug console widget and run it from the console (Simply creating a function means you are creating a command).
+- You can categorize commands and add a different prefix for each category.
+- Multiplayer compatible.
 
 ## Setup
 Installation Console
