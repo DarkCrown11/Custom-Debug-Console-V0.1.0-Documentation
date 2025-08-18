@@ -12,9 +12,9 @@ Unreal Engine Custom Debug Console Plugin V1.0.0 Documentation
 ## About
 A console that you can customize and add commands from the blueprint
 
-## :warning:Warning <a name="warning-anchor-point"></a>
+# :warning:Warning <a name="warning-anchor-point"></a>
 Please remember, this plugin is <ins>Experimental</ins>! You may encounter bugs, please report them to this email address "akcrowngames@gmail.com".
-- ### Supported Platforms
+- ## Supported Platforms
 Windows
 
 ## Features
