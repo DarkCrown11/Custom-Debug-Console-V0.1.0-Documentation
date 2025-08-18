@@ -13,8 +13,9 @@ Unreal Engine Custom Debug Console Plugin V1.0.0 Documentation
 A console that you can customize and add commands from the blueprint
 
 ## :warning:Warning <a name="warning-anchor-point"></a>
-Please remember, this plugin is <ins>Experimental</ins>! You may encounter bugs, please report them to this email address "akcrowngames@gmail.com".
+- Please remember, this plugin is <ins>Experimental</ins>! You may encounter bugs, please report them to this email address "akcrowngames@gmail.com".
 Also if you have a questions you can ask same email address or social media accounts @akcrowngames.
+- This plugin is not compatible with only C++ projects. It is managed with blueprint.
 
 Supported Platforms:
 - Windows
@@ -26,4 +27,5 @@ Supported Platforms:
 - Multiplayer compatible.
 
 ## Setup
-After purchasing the plugin from the [FAB](https://www.fab.com/listings/c3f0a7e2-ffdd-484c-86e6-4a38934d7d06) and installing it on the engine
+After purchasing the plugin from the [FAB](https://www.fab.com/listings/c3f0a7e2-ffdd-484c-86e6-4a38934d7d06) and installing it on the engine, you can enable
+the plugin in `Edit→Plugins→Installed→Custom Debug Console`
