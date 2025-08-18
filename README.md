@@ -9,7 +9,7 @@ Unreal Engine Custom Debug Console Plugin V1.0.0 Documentation
 - [Setup](#Setup)
 
 ## :warning: Warning
-Please remember, this plugin is Experimental! You may encounter bugs, please report them to this email address "akcrowngames@gmail.com".
+Please remember, this plugin is <u>Experimental</u>! You may encounter bugs, please report them to this email address "akcrowngames@gmail.com".
 
 ## About
 A console that you can customize and add commands from the blueprint
