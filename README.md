@@ -5,11 +5,10 @@ Unreal Engine Custom Debug Console Plugin V1.0.0 Documentation
 
 ## Contents
 - [About](#about)
-- [Warning](#warning)
 - [Features](#features)
 - [Setup](#Setup)
 
-# :warning: Warning
+## :warning: Warning
 Please remember, this plugin is Experimental! You may encounter bugs, please report them to this email address "akcrowngames@gmail.com".
 
 ## About
