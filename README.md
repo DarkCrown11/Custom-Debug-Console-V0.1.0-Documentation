@@ -51,6 +51,8 @@ https://github.com/user-attachments/assets/fe681903-cf3d-45fe-aa03-715605ca27c7
 
 ![ConsoleInterface](https://github.com/user-attachments/assets/a40a2c98-8574-4c70-9836-24f91bb6687a)
 
+<img width="1282" height="968" alt="Image" src="https://github.com/user-attachments/assets/a40a2c98-8574-4c70-9836-24f91bb6687a" />
+
 - ## Console Widget
 
 widget
