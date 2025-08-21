@@ -8,7 +8,7 @@ Unreal Engine Custom Debug Console Plugin V1.0.0 Documentation
 - [Warning](#warning-anchor-point)
 - [Features](#features)
 - [Setup](#Setup)
-- [How To Use](#howtouse)
+- [How To Use](#how-to-use)
 
 ## About
 A console that you can customize and add commands from the blueprint
