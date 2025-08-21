@@ -59,7 +59,7 @@ If you want you can create your console widget .
 
 `Go Content Folder->Right Click->User Interface->Widget Blueprint->Search And Select CustomDebugConsoleParentWidget`<br/>
 :warning: this is important after create your console widget you need to go `Window->Custom Debug Console->Select Your Widget->Click Save Button`.<br/>
-Make sure the your console widget is located inside the Content folder. If it's not in the Content folder, it won't appear in the Select Widget menu.<br/>
+Make sure the your console widget is located inside the Content folder. If it's not in the Content folder, it won't appear in the **Select Widget** menu.<br/>
 However, it will still work if you manually enter your widget's path and name (in the format path/to/widget/WidgetName) into the **Console Widget Path** field.
 
 https://github.com/user-attachments/assets/c4f985ca-7b3d-466b-937c-5b3e33dbbf75
