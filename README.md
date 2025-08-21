@@ -54,7 +54,8 @@ This way you can find the custom debug console widget.<br/>
 If you want you can create your console widget 
 > :warning: **The console widget you create yourself will not include any built-in functions.**<br/>
 
-`Go Content Folder -> Right Click -> User Interface -> Widget Blueprint -> Search And Select CustomDebugConsoleParentWidget`
+`Go Content Folder -> Right Click -> User Interface -> Widget Blueprint -> Search And Select CustomDebugConsoleParentWidget`<br/>
+:warning: this is important after create your console widget you need to go `Custom Debug Console Interface -> Select Your Widget -> Click Save Button`.
 
 - ## Console Interface
 
