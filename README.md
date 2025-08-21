@@ -9,8 +9,8 @@ Unreal Engine Custom Debug Console Plugin V1.0.0 Documentation
 - [Features](#features)
 - [Setup](#Setup)
 - [How To Use](#how-to-use)
-    - [Console Interface](#console-interface)
     - [Console Widget](#console-widget)
+    - [Console Interface](#console-interface)
     - [Functions](#functions)
 
 ## About
@@ -46,14 +46,13 @@ Final step now you need to go `Window→Custom Debug Console→Save` click the S
 https://github.com/user-attachments/assets/fe681903-cf3d-45fe-aa03-715605ca27c7
 
 # How To Use
+- ## Console Widget
+
+widget
+
 
 - ## Console Interface
 
 ![ConsoleInterface](https://github.com/user-attachments/assets/8593e175-29f7-45a8-8995-9290c3baa858)
-
-
-- ## Console Widget
-
-widget
 
 - ## Functions
