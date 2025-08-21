@@ -49,7 +49,7 @@ https://github.com/user-attachments/assets/fe681903-cf3d-45fe-aa03-715605ca27c7
 
 - ## Console Interface
 
-interface
+![ConsoleInterface](https://github.com/user-attachments/assets/a40a2c98-8574-4c70-9836-24f91bb6687a)
 
 - ## Console Widget
 
