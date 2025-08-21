@@ -8,6 +8,7 @@ Unreal Engine Custom Debug Console Plugin V1.0.0 Documentation
 - [Warning](#warning-anchor-point)
 - [Features](#features)
 - [Setup](#Setup)
+- [How To Use](#howtouse)
 
 ## About
 A console that you can customize and add commands from the blueprint
@@ -40,3 +41,7 @@ https://github.com/user-attachments/assets/85b24032-6425-47da-83b1-e020ec9b726d
 Final step now you need to go `Window→Custom Debug Console→Save` click the Save button. Congratulations, you have completed the setup.
 
 https://github.com/user-attachments/assets/fe681903-cf3d-45fe-aa03-715605ca27c7
+
+## How To Use
+
+console
