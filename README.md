@@ -11,7 +11,7 @@ Unreal Engine Custom Debug Console Plugin V1.0.0 Documentation
 - [How To Use](#how-to-use)
     - [Console Widget](#console-widget)
     - [Console Interface](#console-interface)
-    - [Functions](#functions)
+    - [Variables](#Variables)
 
 ## About
 A console that you can customize and add commands from the blueprint
@@ -68,4 +68,4 @@ https://github.com/user-attachments/assets/c4f985ca-7b3d-466b-937c-5b3e33dbbf75
 
 ![ConsoleInterface](https://github.com/user-attachments/assets/8593e175-29f7-45a8-8995-9290c3baa858)
 
-- ## Functions
+- ## Variables
