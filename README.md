@@ -12,10 +12,10 @@ Unreal Engine Custom Debug Console Plugin V1.0.0 Documentation
     - [Console Widget](#console-widget)
     - [Console Interface](#console-interface)
     - [Variables](#Variables)
+        - [Event Construct Console](#event-construct-console)
         - [Clear Console](#clear-console)
         - [Set Console Input Text](#set-console-input-text)
         - [Get Console Font Size](#get-console-font-size)
-        - [Event Construct Console](#event-construct-console)
         - [Get Input Value From Index](#get-input-value-from-index)
         - [Get Input Message](#get-input-message)
 
