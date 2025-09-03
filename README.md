@@ -75,21 +75,21 @@ https://github.com/user-attachments/assets/c4f985ca-7b3d-466b-937c-5b3e33dbbf75
 ![ConsoleInterface](https://github.com/user-attachments/assets/8593e175-29f7-45a8-8995-9290c3baa858)
 
 - # Variables
-1) ## Clear Console
+1) ## Event Construct Console
+![EventConstructConsole](https://github.com/user-attachments/assets/52bfd5b3-815b-4a5e-9312-46c14a354bcb)<br/>
+You can't use the Event Construct node inside the Custom Debug Console widget. Instead, you need to use the **Event Construct Console** node.
+
+2) ## Clear Console
 ![ClearConsole](https://github.com/user-attachments/assets/ffa14697-822c-4910-a08a-ebc4cfb3de0e)<br/>
 Clears the console.
 
-2) ## Set Console Input Text
+3) ## Set Console Input Text
 ![SetConsoleInputText](https://github.com/user-attachments/assets/675a801b-b79c-46b5-987d-500d09946835)<br/>
 Sets the console input text.
 
-3) ## Get Console Font Size
+4) ## Get Console Font Size
 ![GetConsoleFontSize](https://github.com/user-attachments/assets/bf089161-28d7-4dc1-a3b9-2345219362eb)<br/>
 Returns the font size value set in the **Console Interface**. Accessible from all Blueprints.
-
-4) ## Event Construct Console
-![EventConstructConsole](https://github.com/user-attachments/assets/52bfd5b3-815b-4a5e-9312-46c14a354bcb)<br/>
-You can't use the Event Construct node inside the Custom Debug Console widget. Instead, you need to use the **Event Construct Console** node.
 
 5) ## Get Input Value From Index
 ![GetInputValueFromIndex](https://github.com/user-attachments/assets/94166217-1d2b-4564-9823-4bcd2666802b)<br/>
