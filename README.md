@@ -13,6 +13,7 @@ Unreal Engine Custom Debug Console Plugin V1.0.0 Documentation
     - [Console Interface](#console-interface)
     - [Variables](#Variables)
         - [Event Construct Console](#event-construct-console)
+        - [Get Input Value From Index](#get-input-value-from-index)
 
 ## About
 A console that you can customize and add commands from the blueprint
@@ -71,6 +72,9 @@ https://github.com/user-attachments/assets/c4f985ca-7b3d-466b-937c-5b3e33dbbf75
 
 - # Variables
 1) ## Event Construct Console
-2) 
 ![EventConstructConsole](https://github.com/user-attachments/assets/52bfd5b3-815b-4a5e-9312-46c14a354bcb)<br/>
 You can't use the Event Construct node inside the Custom Debug Console widget. Instead, you need to use the **Event Construct Console** node.
+
+2) ## Get Input Value From Index
+![EventConstructConsole](https://github.com/user-attachments/assets/94166217-1d2b-4564-9823-4bcd2666802b)<br/>
+This node gets the value from a specific line of the input.
