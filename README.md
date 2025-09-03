@@ -71,4 +71,5 @@ https://github.com/user-attachments/assets/c4f985ca-7b3d-466b-937c-5b3e33dbbf75
 
 - # Variables
 1) ## Event Construct Console
-test
+![EventConstructConsole](https://github.com/user-attachments/assets/52bfd5b3-815b-4a5e-9312-46c14a354bcb)
+
