@@ -14,6 +14,7 @@ Unreal Engine Custom Debug Console Plugin V1.0.0 Documentation
     - [Variables](#Variables)
         - [Event Construct Console](#event-construct-console)
         - [Get Input Value From Index](#get-input-value-from-index)
+        - [Get Input Message](#get-input-message)
 
 ## About
 A console that you can customize and add commands from the blueprint
@@ -76,5 +77,9 @@ https://github.com/user-attachments/assets/c4f985ca-7b3d-466b-937c-5b3e33dbbf75
 You can't use the Event Construct node inside the Custom Debug Console widget. Instead, you need to use the **Event Construct Console** node.
 
 2) ## Get Input Value From Index
-![EventConstructConsole](https://github.com/user-attachments/assets/94166217-1d2b-4564-9823-4bcd2666802b)<br/>
+![GetInputValueFromIndex](https://github.com/user-attachments/assets/94166217-1d2b-4564-9823-4bcd2666802b)<br/>
 This node gets the value from a specific line of the input.
+
+3) ## Get Input Message
+![GetInputMessage](https://github.com/user-attachments/assets/cd1d7fff-d131-4ae1-bdb4-a153b0049ede)<br/>
+This node removes the command at the very start of the input (index 0) and returns the rest of the sentence. In the example above you can see the difference between this and **Input Committed**.
