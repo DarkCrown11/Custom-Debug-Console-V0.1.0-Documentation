@@ -111,3 +111,6 @@ Print Console adds all entered messages to the console. Accessible from all Blue
 
 ![PrintConsoleExample1](https://github.com/user-attachments/assets/07cba1fc-2cfc-420d-a04c-eb8c4a40a602)<br/>
 ![PrintConsoleExample2](https://github.com/user-attachments/assets/fc95db16-4fa7-4c59-855d-f55310f658fa)
+
+8) ## Broadcast Console
+![BroadcastConsole](https://github.com/user-attachments/assets/11d90e14-d70c-4913-9378-3ead727757a3)<br/>
