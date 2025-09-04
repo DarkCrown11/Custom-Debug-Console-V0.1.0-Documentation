@@ -85,10 +85,10 @@ Functions you create inside the **Custom Debug Console Widget** are added to the
 ![AllWariables](https://github.com/user-attachments/assets/8b971352-3607-4204-93e6-a031c8dddef8)<br/>
 The image above shows all variable types that a function can use.<br/>
 To create a command:
-1) First, create a function inside the Custom Debug Console Widget.
+1) First, create a function inside the **Custom Debug Console Widget**.
 2) Add this function to a category.
-3) Go to the Console Interface and carefully enter the exact name of the category you added your function to in the Category Name field under Function Categories, then click Save.
-4) If you also add a value in the Prefix field, this prefix will be added to the beginning of all function names in that category.
+3) Go to the **Console Interface** and carefully enter the exact name of the category you added your function to in the **Category Name** field under **Function Categories**, then click **Save**.
+4) If you also add a value in the Prefix field, this prefix will be added to the beginning of all function names in that category.<br/>
 The variables you add under Inputs in the function’s Details panel will automatically become the function’s parameters, and the text you write in the Description field will automatically appear as the function’s description.
 
 - ## Console Interface
