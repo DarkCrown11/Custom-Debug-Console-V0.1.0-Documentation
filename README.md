@@ -10,6 +10,7 @@ Unreal Engine Custom Debug Console Plugin V1.0.0 Documentation
 - [Setup](#Setup)
 - [How To Use](#how-to-use)
     - [Console Widget](#console-widget)
+        - [How To Create Command](#how-to-create-command)
     - [Console Interface](#console-interface)
     - [Variables](#Variables)
         - [Event Construct Console](#event-construct-console)
@@ -73,6 +74,13 @@ Make sure the your console widget is located inside the Content folder. If it's 
 However, it will still work if you manually enter your widget's path and name (in the format path/to/widget/WidgetName) into the **Console Widget Path** field.
 
 https://github.com/user-attachments/assets/c4f985ca-7b3d-466b-937c-5b3e33dbbf75
+
+- ## How To Create Command
+Functions you create inside the **Custom Debug Console Widget** are added to the console as commands.
+:warning: Before you start, keep these in mind:
+- Function names cannot contain spaces.
+- You cannot use the symbols `~` or `¿` in the function name, parameters, or description.
+- When you add, delete, or rename a function, you must go to the **Console Interface** and click **Save**.
 
 - ## Console Interface
 
