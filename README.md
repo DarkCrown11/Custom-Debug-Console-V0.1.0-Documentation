@@ -18,6 +18,10 @@ Unreal Engine Custom Debug Console Plugin V1.0.0 Documentation
         - [Get Console Font Size](#get-console-font-size)
         - [Get Input Value From Index](#get-input-value-from-index)
         - [Get Input Message](#get-input-message)
+        - [Print Console](#print-console)
+        - [Broadcast Console](#broadcast-console)
+        - [Function List](#function-list)
+        - [Add Child To Console Log](#add-child-to-console-log)
 
 ## About
 A console that you can customize and add commands from the blueprint
