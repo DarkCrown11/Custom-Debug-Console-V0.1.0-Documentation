@@ -106,6 +106,7 @@ If you add a prefix, it will be added to the beginning of all function names in 
 5) **Warnings**: The console has automatic warning messages. You can change them or translate them to your language.
 - `{ParamName}` shows which parameter caused the error.
 - `{UserValue}` shows the value entered by the user.<br/>
+
 Include these placeholders in your custom messages to keep the functionality.
 
 - # Variables
