@@ -12,7 +12,7 @@ Unreal Engine Custom Debug Console Plugin V1.0.0 Documentation
     - [Console Widget](#console-widget)
         - [How To Create Command](#how-to-create-command)
     - [Console Interface](#console-interface)
-    - [Variables](#Variables)
+    - [Nodes](#nodes)
         - [Event Construct Console](#event-construct-console)
         - [Clear Console](#clear-console)
         - [Set Console Input Text](#set-console-input-text)
@@ -109,7 +109,7 @@ If you add a prefix, it will be added to the beginning of all function names in 
 
 Include these placeholders in your custom messages to keep the functionality.
 
-- # Variables
+- # Nodes
 ![Variables](https://github.com/user-attachments/assets/d1b427e6-e184-4ea0-8631-a786e7e0e5c0)
 1) ## Event Construct Console
 ![EventConstructConsole](https://github.com/user-attachments/assets/52bfd5b3-815b-4a5e-9312-46c14a354bcb)<br/>
