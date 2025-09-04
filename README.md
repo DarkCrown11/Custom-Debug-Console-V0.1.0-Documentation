@@ -99,3 +99,12 @@ This node gets the value from a specific line of the input.
 6) ## Get Input Message
 ![GetInputMessage](https://github.com/user-attachments/assets/cd1d7fff-d131-4ae1-bdb4-a153b0049ede)<br/>
 This node removes the command at the very start of the input (index 0) and returns the rest of the sentence. In the example above you can see the difference between this and **Input Committed**.
+
+7) ## Print Console
+![PrintConsole](https://github.com/user-attachments/assets/72503d6a-e4d4-4e8d-8ae8-ef4fc3798f77)<br/>
+Print Console adds all entered messages to the console. Accessible from all Blueprints.
+- Text Type: There are three color options: Default, Warning, and Error. These colors can be changed through the **Console Interface**.
+- Tooltip Text: The text entered here will be displayed when the mouse hovers over the message.
+- Key: If any word other than `None` is entered here, the message will switch to refresh mode. This mode can be stopped using the **Stop Print Console** node. Below are two different usage examples.
+:warning: Warning: This feature only works with nodes such as **Event Tick** or **Set Timer by Event** etc. Also, the Key value is <ins>unique</ins> — if two different Print Console nodes share the same key, it will cause a conflict.
+- Print to Log: The entered message is also printed to Unreal Engine’s own console.
