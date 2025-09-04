@@ -118,3 +118,10 @@ Broadcast Console sends the entered message to everyone in the session. Accessib
 It has 2 modes:
 - **Only The Host Can Broadcast**: Only the host (server) can send messages to everyone.
 - **Everyone Can Broadcast**: Anyone can send messages to everyone. Works like a simple chat system.
+
+9) ## Function List
+![FunctionList](https://github.com/user-attachments/assets/2c3b8ae5-99ec-4969-a868-d90df01ef7a4)<br/>
+
+
+10) ## Add Child To Console Log
+![AddChildToConsoleLog](https://github.com/user-attachments/assets/b6017bf0-41cd-4433-bec4-8842c408021a)<br/>
