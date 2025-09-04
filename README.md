@@ -88,7 +88,8 @@ To create a command:
 1) First, create a function inside the **Custom Debug Console Widget**.
 2) Add this function to a category.
 3) Go to the **Console Interface** and carefully enter the exact name of the category you added your function to in the **Category Name** field under **Function Categories**, then click **Save**.
-4) If you also add a value in the Prefix field, this prefix will be added to the beginning of all function names in that category.<br/>
+4) If you also add a value in the Prefix field, this prefix will be added to the beginning of all function names in that category.
+
 The variables you add under Inputs in the function’s Details panel will automatically become the function’s parameters, and the text you write in the Description field will automatically appear as the function’s description.
 
 - ## Console Interface
