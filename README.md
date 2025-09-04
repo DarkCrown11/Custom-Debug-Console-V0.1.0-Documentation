@@ -103,14 +103,18 @@ This node removes the command at the very start of the input (index 0) and retur
 7) ## Print Console
 ![PrintConsole](https://github.com/user-attachments/assets/72503d6a-e4d4-4e8d-8ae8-ef4fc3798f77)<br/>
 Print Console adds all entered messages to the console. Accessible from all Blueprints.
-- Text Type: There are three color options: Default, Warning, and Error. These colors can be changed through the **Console Interface**.
-- Tooltip Text: The text entered here will be displayed when the mouse hovers over the message.
-- Key: If any word other than `None` is entered here, the message will switch to refresh mode. This mode can be stopped using the **Stop Print Console** node. Below are two different usage examples.<br/>
+- **Text Type**: There are three color options: Default, Warning, and Error. These colors can be changed through the **Console Interface**.
+- **Tooltip Text**: The text entered here will be displayed when the mouse hovers over the message.
+- **Key**: If any word other than `None` is entered here, the message will switch to refresh mode. This mode can be stopped using the **Stop Print Console** node. Below are two different usage examples.<br/>
 :warning: Warning: This feature only works with nodes such as **Event Tick** or **Set Timer by Event** etc. Also, the Key value is <ins>unique</ins> — if two different Print Console nodes share the same key, it will cause a conflict.
-- Print to Log: The entered message is also printed to Unreal Engine’s own console.
+- **Print to Log**: The entered message is also printed to Unreal Engine’s own console.
 
 ![PrintConsoleExample1](https://github.com/user-attachments/assets/07cba1fc-2cfc-420d-a04c-eb8c4a40a602)<br/>
 ![PrintConsoleExample2](https://github.com/user-attachments/assets/fc95db16-4fa7-4c59-855d-f55310f658fa)
 
 8) ## Broadcast Console
 ![BroadcastConsole](https://github.com/user-attachments/assets/11d90e14-d70c-4913-9378-3ead727757a3)<br/>
+Broadcast Console sends the entered message to everyone in the session. Accessible from all Blueprints.
+It has 2 modes:
+- **Only The Host Can Broadcast**: Only the host (server) can send messages to everyone.
+- **Everyone Can Broadcast**: Anyone can send messages to everyone. Works like a simple chat system.
