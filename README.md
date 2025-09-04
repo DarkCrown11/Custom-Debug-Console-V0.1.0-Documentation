@@ -100,7 +100,7 @@ If the widget is in the Content folder, it will appear when you click **Select W
 If it’s elsewhere, you can manually enter the widget path and name in this format: path/to/widget/WidgetName.
 2) **Console Key**: Set which key opens and closes the console. Numbers cannot be used. If the chosen key has another function in the editor, the previous function will be disabled.
 3) **Function Categories**: When adding functions to the console inside the Custom Debug Console Widget, enter the categories in Category Name, paying attention to uppercase and lowercase letters.
-If you add a prefix, it will be added to the beginning of all function names in that category.
+If you add a prefix, it will be added to the beginning of all function names in that category.<br/>
 :warning: You cannot use the symbols `~` or `¿` in this field.
 4) **Multiplayer Server-Client Separation**: This only works in PIE (Play In Editor) mode. When you add a message with the Print Console node, it will prepend “host” if it’s the server or “client” if it’s the client.
 5) **Warnings**: The console has automatic warning messages. You can change them or translate them to your language.
