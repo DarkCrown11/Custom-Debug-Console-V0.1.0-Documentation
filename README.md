@@ -114,7 +114,7 @@ Print Console adds all entered messages to the console. Accessible from all Blue
 
 8) ## Broadcast Console
 ![BroadcastConsole](https://github.com/user-attachments/assets/11d90e14-d70c-4913-9378-3ead727757a3)<br/>
-Broadcast Console sends the entered message to everyone in the session. Accessible from all Blueprints.
+Broadcast Console sends the entered message to everyone in the session. Accessible from all Blueprints.<br/>
 It has 2 modes:
 - **Only The Host Can Broadcast**: Only the host (server) can send messages to everyone.
 - **Everyone Can Broadcast**: Anyone can send messages to everyone. Works like a simple chat system.
