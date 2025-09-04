@@ -108,3 +108,5 @@ Print Console adds all entered messages to the console. Accessible from all Blue
 - Key: If any word other than `None` is entered here, the message will switch to refresh mode. This mode can be stopped using the **Stop Print Console** node. Below are two different usage examples.<br/>
 :warning: Warning: This feature only works with nodes such as **Event Tick** or **Set Timer by Event** etc. Also, the Key value is <ins>unique</ins> — if two different Print Console nodes share the same key, it will cause a conflict.
 - Print to Log: The entered message is also printed to Unreal Engine’s own console.
+![PrintConsoleExample1](https://github.com/user-attachments/assets/07cba1fc-2cfc-420d-a04c-eb8c4a40a602)<br/>
+![PrintConsoleExample2](https://github.com/user-attachments/assets/fc95db16-4fa7-4c59-855d-f55310f658fa)
