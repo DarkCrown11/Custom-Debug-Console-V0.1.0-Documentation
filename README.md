@@ -82,7 +82,8 @@ Functions you create inside the **Custom Debug Console Widget** are added to the
 - You cannot use the symbols `~` or `¿` in the function category name, function name, parameter name, or description.
 - When you add, delete, or rename a function, you must go to the **Console Interface** and click **Save**.
 
-![AllWariables](https://github.com/user-attachments/assets/8b971352-3607-4204-93e6-a031c8dddef8)
+![AllWariables](https://github.com/user-attachments/assets/8b971352-3607-4204-93e6-a031c8dddef8)<br/>
+The image above shows all variable types that a function can use.
 
 - ## Console Interface
 
