@@ -21,7 +21,7 @@ Unreal Engine Custom Debug Console Plugin V1.0.0 Documentation
         - [Get Input Message](#get-input-message)
         - [Print Console](#print-console)
         - [Broadcast Console](#broadcast-console)
-        - [Function List](#function-list)
+        - [Get Function List](#get-function-list)
         - [Add Child To Console Log](#add-child-to-console-log)
 
 ## About
@@ -154,8 +154,8 @@ It has 2 modes:
 - **Only The Host Can Broadcast**: Only the host (server) can send messages to everyone.
 - **Everyone Can Broadcast**: Anyone can send messages to everyone. Works like a simple chat system.
 
-9) ## Function List
-![FunctionList](https://github.com/user-attachments/assets/2c3b8ae5-99ec-4969-a868-d90df01ef7a4)<br/>
+9) ## Get Function List
+![GetFunctionList](https://github.com/user-attachments/assets/c3ac3e00-3012-463e-97cb-564ab1ecaede)<br/>
 Function List stores all functions added to the console along with their parameters and descriptions.<br/>
 You can use it like in the example below — it will print all of your functions to the console.<br/>
 ![FunctionListExample](https://github.com/user-attachments/assets/09392cc6-0eb4-49d8-8445-eaba4b7ea7dc)
