@@ -32,8 +32,8 @@ A console that you can customize and add commands from the blueprint
 Also if you have a questions you can ask same email address or social media accounts @akcrowngames.
 - This plugin is not compatible with only C++ projects. It is managed with blueprint.
 - This console is designed for host-based listen server multiplayer or singleplayer game modes.
-Compatibility with dedicated servers has not been tested, and I believe it will not work properly there.<br/>
-Since I don’t know much about console security, there may be risks to your game files. Because of this, I recommend not using it in dedicated server based multiplayer games and removing the plugin from your game once it reaches the shipping stage.<br/>
+Compatibility with dedicated servers has not been tested, and I believe it will not work properly there.
+- Since I don’t know much about console security, there may be risks to your game files. Because of this, I recommend not using it in dedicated server based multiplayer games and removing the plugin from your game once it reaches the shipping stage.<br/>
 (This is just a suggestion. I'm not sure if the console poses a security risk yet.)
 
 Supported Platforms:
