@@ -162,7 +162,7 @@ It has 2 modes:
 ![GetFunctionList](https://github.com/user-attachments/assets/c3ac3e00-3012-463e-97cb-564ab1ecaede)<br/>
 Function List stores all functions added to the console along with their parameters and descriptions.<br/>
 You can use it like in the example below — it will print all of your functions to the console.<br/>
-![FunctionListExample](https://github.com/user-attachments/assets/09392cc6-0eb4-49d8-8445-eaba4b7ea7dc)
+![FunctionListExample](https://github.com/user-attachments/assets/024aa811-5613-4ce6-a582-7a77a11ac92c)
 
 10) ## Add Child To Console Log
 ![AddChildToConsoleLog](https://github.com/user-attachments/assets/b6017bf0-41cd-4433-bec4-8842c408021a)<br/>
