@@ -126,7 +126,7 @@ You can't use the Event Construct node inside the Custom Debug Console widget. I
 Clears the console.
 
 3) ## Set Console Input Text
-![SetConsoleInputText](https://github.com/user-attachments/assets/675a801b-b79c-46b5-987d-500d09946835)<br/>
+![SetConsoleInputText](https://github.com/user-attachments/assets/a16f1898-af77-47b6-a03b-2bcdebc2df7f)<br/>
 Sets the console input text. Accessible from all Blueprints.
 
 4) ## Get Console Font Size
