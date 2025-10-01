@@ -174,4 +174,4 @@ This node allows you to add a User Widget into the console. (<ins>Experimental</
 :warning: Warning: Interactive objects (like buttons) inside the User Widget will not work, and some widget features may not display correctly.<br/>
 :information_source: For the curious: When a User Widget is added to the console, it is converted from User Widget → Slate Widget. Because of this, not all features carry over correctly, and interactive objects won’t work.
 
-https://www.youtube.com/watch?v=2Kk4eQwiET4
+<iframe width="1342" height="755" src="https://www.youtube.com/embed/2Kk4eQwiET4" title="Function List And Add Child To Console Log" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
