@@ -173,3 +173,5 @@ This node allows you to add a User Widget into the console. (<ins>Experimental</
 
 :warning: Warning: Interactive objects (like buttons) inside the User Widget will not work, and some widget features may not display correctly.<br/>
 :information_source: For the curious: When a User Widget is added to the console, it is converted from User Widget → Slate Widget. Because of this, not all features carry over correctly, and interactive objects won’t work.
+
+[Example](https://youtu.be/2Kk4eQwiET4)
