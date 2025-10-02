@@ -23,6 +23,7 @@ Unreal Engine Custom Debug Console Plugin V1.0.0 Documentation
         - [Broadcast Console](#broadcast-console)
         - [Get Function List](#get-function-list)
         - [Add Child To Console Log](#add-child-to-console-log)
+    - [Examples](#examples)
 
 ## About
 A console that you can customize and add commands from the blueprint
@@ -176,3 +177,5 @@ This node allows you to add a User Widget into the console. (<ins>Experimental</
 
 # Example
 [![Watch the video](https://img.youtube.com/vi/2Kk4eQwiET4/hqdefault.jpg)](https://www.youtube.com/embed/2Kk4eQwiET4)
+
+https://github.com/user-attachments/assets/39295a2e-691a-444e-b418-ba7465b155c8
