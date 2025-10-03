@@ -117,7 +117,7 @@ If you add a prefix, it will be added to the beginning of all function names in 
 Include these placeholders in your custom messages to keep the functionality.
 
 - # Nodes
-![Variables](https://github.com/user-attachments/assets/d1b427e6-e184-4ea0-8631-a786e7e0e5c0)
+![Variables](https://github.com/user-attachments/assets/13b7598f-840e-4866-8553-58a3ae5da4c7)
 1) ## Event Construct Console
 ![EventConstructConsole](https://github.com/user-attachments/assets/52bfd5b3-815b-4a5e-9312-46c14a354bcb)<br/>
 You can't use the Event Construct node inside the Custom Debug Console widget. Instead, you need to use the **Event Construct Console** node.
