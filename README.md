@@ -1,5 +1,5 @@
-# Custom-Debug-Console-V1.0.0-Documentation
-Unreal Engine Custom Debug Console Plugin V1.0.0 Documentation
+# Custom-Debug-Console-V0.1.0-Documentation
+Unreal Engine Custom Debug Console Plugin V0.1.0 Documentation
 
 ![image](https://github.com/user-attachments/assets/de989d0f-4afa-4206-b0f4-2d87f49cc86e)
 
