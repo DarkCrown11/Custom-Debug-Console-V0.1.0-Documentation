@@ -36,6 +36,7 @@ Also if you have a questions you can ask same email address or social media acco
 Compatibility with dedicated servers has not been tested, and I believe it will not work properly there.
 - Since I don’t know much about console security, there may be risks to your game files. Because of this, I recommend not using it in dedicated server based multiplayer games and removing the plugin from your game once it reaches the shipping stage.<br/>
 (This is just a suggestion. I'm not sure if the console poses a security risk yet.)
+- Your Custom Debug Console Save file location `Your Project File->Config->CustomDebugConsoleSave`.
 
 Supported Platforms:
 - Windows
