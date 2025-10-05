@@ -71,6 +71,10 @@ This way you can find the custom debug console widget.<br/>
 
 https://github.com/user-attachments/assets/c680d97f-f5e1-414b-873d-e62995e11a39
 
+If you can't find the plugins folder, try this
+
+https://github.com/user-attachments/assets/98f1dc7f-433b-4b45-ac31-4d1850a3aa23
+
 If you want you can create your console widget .
 > :warning: **The console widget you create yourself will not include any built-in functions.**<br/>
 
