@@ -171,8 +171,8 @@ You can use it like in the example below — it will print all of your functions
 This node allows you to add a User Widget into the console. (<ins>Experimental</ins>)<br/>
 - You can use an image to create a table, but remember: the console automatically adds spacing between all messages. Because of this, you should first build your table inside the User Widget, then add that table to the console.<br/>
 
-:warning: Warning: Interactive objects (like buttons) inside the User Widget will not work, and some widget features may not display correctly.<br/>
-:information_source: For the curious: When a User Widget is added to the console, it is converted from User Widget → Slate Widget. Because of this, not all features carry over correctly, and interactive objects won’t work.
+:warning: Warning: Some user widget features may not display correctly.<br/>
+:information_source: For the curious: When a User Widget is added to the console, it is converted from User Widget → Slate Widget. Because of this, not all features carry over correctly.
 
 # Examples
 - ## Function List And Add Child To Console Log
