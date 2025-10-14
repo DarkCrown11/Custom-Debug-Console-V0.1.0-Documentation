@@ -52,7 +52,7 @@ Supported Platforms:
 - After purchasing the plugin from the [FAB](https://www.fab.com/listings/c3f0a7e2-ffdd-484c-86e6-4a38934d7d06) and installing it on the engine, you can enable
 the plugin in `Edit->Plugins->Console->Custom Debug Console` and restart the engine.
 - After that you need to create 2 blueprints 1.GameMode 2.PlayerController and inside the your PlayerController blueprint you need to add Custom Debug Console PC Component.<br/>
-Then click `Custom Debug Console PC Component->Widget Class-> Select Custom Debug Console`. Now go to world settings and select your GameMode and PlayerController.
+Then click `Custom Debug Console PC->Widget Class-> Select Custom Debug Console`. Now go to world settings and select your GameMode and PlayerController.
 - Final step now you need to go `Window->Custom Debug Console->Save` click the Save button. Congratulations, you have completed the setup.
 
 https://github.com/user-attachments/assets/8eb58ec4-545e-45c7-a0ec-2e4b52ff8fbd
@@ -73,12 +73,11 @@ https://github.com/user-attachments/assets/98f1dc7f-433b-4b45-ac31-4d1850a3aa23
 If you want you can create your console widget .
 > :warning: **The console widget you create yourself will not include any built-in functions.**<br/>
 
-`Go Content Folder->Right Click->User Interface->Widget Blueprint->Search And Select CustomDebugConsoleParentWidget`<br/>
-:warning: this is important after create your console widget you need to go `Window->Custom Debug Console->Select Your Widget->Click Save Button`.<br/>
-Make sure the your console widget is located inside the Content folder. If it's not in the Content folder, it won't appear in the **Select Widget** menu.<br/>
-However, it will still work if you manually enter your widget's path and name (in the format path/to/widget/WidgetName) into the **Console Widget Path** field.
+Go `Content Folder->Right Click->User Interface->Widget Blueprint->Search And Select CustomDebugConsoleParentWidget`<br/>
+:warning: this is important after create your console widget you need to go `Your PlayerController->Click CustomDebugConsolePC->Widget Class->Select Your Console Widget`.<br/>
+Then go `Window->Custom Debug Console->Save` click the Save button.
 
-https://github.com/user-attachments/assets/c4f985ca-7b3d-466b-937c-5b3e33dbbf75
+https://github.com/user-attachments/assets/e3bbeee3-1dd4-4f8e-8bce-21df16ae008d
 
 - ## How To Create Command
 Functions you create inside the **Custom Debug Console Widget** are added to the console as commands.<br/>
