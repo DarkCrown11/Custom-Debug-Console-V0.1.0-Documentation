@@ -96,7 +96,7 @@ To create a command:
 
 The variables you add under Inputs in the function’s Details panel will automatically become the function’s parameters, and the text you write in the Description field will automatically appear as the function’s description.
 
-https://github.com/user-attachments/assets/9e470e0f-e37f-44ed-902d-7128452329d8
+https://github.com/user-attachments/assets/a662f66c-8a92-440f-85c1-4de99afdaebf
 
 - ## Console Interface
 ![ConsoleInterface](https://github.com/user-attachments/assets/473aaaa0-417f-48fe-9b95-4afd833fe21e)<br/>
