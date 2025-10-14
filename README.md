@@ -176,6 +176,6 @@ This node allows you to add a User Widget into the console. (<ins>Experimental</
 
 # Examples
 - ## Function List And Add Child To Console Log
-[![Watch the video](https://img.youtube.com/vi/2Kk4eQwiET4/hqdefault.jpg)](https://www.youtube.com/embed/2Kk4eQwiET4)
+[![Watch the video](https://img.youtube.com/vi/LguLhET2mH8/hqdefault.jpg)](https://www.youtube.com/embed/LguLhET2mH8)
 
 https://github.com/user-attachments/assets/e4661b57-1f91-4c65-8d17-6263f3bb8f59
