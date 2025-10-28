@@ -64,11 +64,7 @@ After opening the unreal engine, you can find the widget in the **Content Drawer
 `Content Drawer->Plugins->Custom Debug Console Content->Custom Debug Console` or on the left side of the content drawer click All and search Custom Debug Console.
 This way you can find the custom debug console widget.<br/> 
 
-https://github.com/user-attachments/assets/c680d97f-f5e1-414b-873d-e62995e11a39
-
-If you can't find the plugins folder, try this
-
-https://github.com/user-attachments/assets/98f1dc7f-433b-4b45-ac31-4d1850a3aa23
+https://github.com/user-attachments/assets/7f255ff7-271f-4e52-821b-2440f367780a
 
 If you want you can create your console widget .
 > :warning: **The console widget you create yourself will not include any built-in functions.**<br/>
