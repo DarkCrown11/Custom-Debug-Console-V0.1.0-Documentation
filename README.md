@@ -95,7 +95,7 @@ The variables you add under Inputs in the function’s Details panel will automa
 https://github.com/user-attachments/assets/a662f66c-8a92-440f-85c1-4de99afdaebf
 
 - ## Console Interface
-![ConsoleInterface](https://github.com/user-attachments/assets/473aaaa0-417f-48fe-9b95-4afd833fe21e)<br/>
+![ConsoleInterface](https://github.com/user-attachments/assets/9cb11a81-540e-4012-9de2-d4b438727176)<br/>
 You can customize the console however you like by adjusting the settings. Here are some important ones to know:<br/>
 1) **Console Widget Path**: Enter the path of a User Widget that has the **Custom Debug Console Parent Widget** here.
 If the widget is in the Content folder, it will appear when you click **Select Widget**.
