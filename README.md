@@ -46,7 +46,8 @@ Supported Platforms:
 - You can customize your console look from interface.
 - You can create a function in a custom debug console widget and run it from the console (Simply creating a function means you are creating a command).
 - You can categorize commands and add a different prefix for each category.
-- Multiplayer compatible.
+- You can add user widget to console log.
+- Multiplayer compatible for listen servers.
 
 ## Setup
 - After purchasing the plugin from the [FAB](https://www.fab.com/listings/c3f0a7e2-ffdd-484c-86e6-4a38934d7d06) and installing it on the engine, you can enable
