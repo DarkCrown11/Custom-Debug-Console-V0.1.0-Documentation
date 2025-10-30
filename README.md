@@ -50,7 +50,7 @@ Supported Platforms:
 - Multiplayer compatible for listen servers.
 
 ## Setup
-- After purchasing the plugin from the [FAB](https://www.fab.com/listings/c3f0a7e2-ffdd-484c-86e6-4a38934d7d06) and installing it on the engine, you can enable
+- After purchasing the plugin from the [FAB](https://www.fab.com/listings/94414fa0-1955-4720-9168-05f87dbdc542) and installing it on the engine, you can enable
 the plugin in `Edit->Plugins->Console->Custom Debug Console` and restart the engine.
 - After that you need to create 2 blueprints 1.GameMode 2.PlayerController and inside the your PlayerController blueprint you need to add Custom Debug Console PC Component.<br/>
 Then click `Custom Debug Console PC->Widget Class-> Select Custom Debug Console`. Now go to world settings and select your GameMode and PlayerController.
