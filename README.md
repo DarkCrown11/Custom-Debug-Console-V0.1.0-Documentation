@@ -71,6 +71,7 @@ If you want you can create your console widget .
 > :warning: **The console widget you create yourself will not include any built-in functions.**<br/>
 
 Go `Content Folder->Right Click->User Interface->Widget Blueprint->Search And Select CustomDebugConsoleParentWidget`<br/>
+After that `Open Your Console Widget->Visibility->Select Collapsed`<br/>
 :warning: this is important after create your console widget you need to go `Your PlayerController->Click CustomDebugConsolePC->Widget Class->Select Your Console Widget`.<br/>
 Then go `Window->Custom Debug Console->Save` click the Save button.
 
