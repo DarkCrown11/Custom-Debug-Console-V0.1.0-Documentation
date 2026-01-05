@@ -99,7 +99,7 @@ https://github.com/user-attachments/assets/a662f66c-8a92-440f-85c1-4de99afdaebf
 - ## Console Interface
 ![ConsoleInterface](https://github.com/user-attachments/assets/611367cd-1c8a-4998-a636-97c8eb2a40c8)<br/>
 You can customize the console however you like by adjusting the settings. Here are some important ones to know:<br/>
-1) **Console Key**: Set which key opens and closes the console. Numbers cannot be used. If the chosen key has another function in the editor, the previous function will be disabled.
+1) **Console Key**: Set which key opens and closes the console. Numbers cannot be used. If the chosen key has another function in the editor, the previous function will be disabled.<br/>
 ![ConsoleMode](https://github.com/user-attachments/assets/8147e1a4-136b-44ae-b6c9-9c76c5549804)<br/>
 3) **Console Mode**: In this option you can select three mode;
 - Quick Mode: In this mode, the console will automatically close when you enter the correct code.
